@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+	<id>0</id>
+	<name>David</name>
+	<phoneNumber>123 456 5748</phoneNumber>
+	<status>FULL_TIME</status>
+</student>
