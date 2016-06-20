@@ -10,7 +10,11 @@
 		<!--  <param-value>classpath:larkUWebContext.xml</param-value> -->
 		
 		<!-- This one is for Test Data -->
+<<<<<<< HEAD
 		<!-- A  different Silly Comment-->
+=======
+		<!-- And here is another silly and bogus comment -->
+>>>>>>> branch 'master' of https://github.com/thethirdlane/FirstOne.git
 		<param-value>classpath:larkUTestWebContext.xml</param-value>
 	</context-param>
 	<listener>
