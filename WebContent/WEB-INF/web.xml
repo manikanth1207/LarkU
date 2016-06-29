@@ -6,17 +6,12 @@
 	<display-name>LarkU</display-name>
 	<context-param>
 		<param-name>contextConfigLocation</param-name>
-<<<<<<< HEAD
-		<param-value>classpath:larkUWebContext.xml</param-value>
-		<!-- <param-value>classpath:larkUTestWebContext.xml</param-value> -->
-=======
 		<!-- This is for an actual Data Base -->
 		<!--  <param-value>classpath:larkUWebContext.xml</param-value> -->
 		
 		<!-- This one is for Test Data -->
 		<!-- A  different Silly Comment-->
 		<param-value>classpath:larkUTestWebContext.xml</param-value>
->>>>>>> branch 'master' of https://github.com/thethirdlane/FirstOne.git
 	</context-param>
 	<listener>
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
